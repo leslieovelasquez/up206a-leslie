@@ -8,5 +8,5 @@ qualifying affordable housing within the service territories of Pacific Gas & El
 # Dataset 2:
 * Name: Low-Income Energy Affordability Data (LEAD) (file name - lead-tool-map-data.csv)
 * Description: This dataset includes calculations of average energy burden (calculated as average energy cost as a percentage of average income) by census tract and county in the state of California. It is provided by the federal Office of Energy Efficiency and Renewable Energy. I intend to compare this data with data on the location and income level of communities where SOMAH projects are being installed or pursued. From this comparison, I want to determine if SOMAH projects are being pursued/installed in areas with high energy cost burdens. 
-* URL to source: https://www.energy.gov/eere/slsc/maps/lead-tool
+* URL to source: https://www.energy.gov/eere/slsc/maps/lead-tool (visual tool) https://data.openei.org/submissions/573 (where you can download data)
 * URL to repo: https://github.com/leslieovelasquez/up206a-leslie/tree/main/data/LEAD_data
