@@ -5,7 +5,7 @@ Designed to familiarize students with use of geographic data in public policy, u
 * Name: Leslie Velasquez
 * Pronouns: She/They
 * Program and Concentration: MURP, EAP concentration
-* From: San Francisco Bay Area, but moved here from Brooklyn
+* From: San Francisco Bay Area, but moved here from Brooklyn, where I lived for 4.5 years
 * Professional field: Environmental Justice and Environmental Policy
 # My Objectives for the Class:
 I am primarily in graduate school in order to gain more technical skills and experience that I can bring to my career in environmental justice. Specifically I would like to focus more on energy equity and community-owned renewable energy. I would like to learn GIS in order to apply these skills to energy planning and policy. 
